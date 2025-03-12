@@ -1,6 +1,8 @@
+ Gereksinimler
+
 1.Giriş yapma:Giriş yapma gereksinimi, bir sistem, platform veya hizmete erişim sağlamak için kullanıcının kimlik doğrulamasını yapmasını zorunlu kılan bir güvenlik önlemidir.
 2.Kayıt olma: Bir sistem, platform veya hizmeti kullanabilmek için kullanıcının kendine ait bir hesap oluşturmasını zorunlu kılan bir işlemdir.
-3.Şifre sıfırlama işlemi: Kullanıcıların unutulan, çalınan veya güvenlik nedeniyle değiştirilmesi gereken şifreleri yeniden oluşturabilmeleri için sunulan bir işlemdir. 
+3.Şifre sıfırlama: Kullanıcıların unutulan, çalınan veya güvenlik nedeniyle değiştirilmesi gereken şifreleri yeniden oluşturabilmeleri için sunulan bir işlemdir. 
 4.Çıkış yapma:  Kullanıcıların bir platformda veya uygulamada mevcut hesaplarından güvenli bir şekilde çıkmalarını sağlayan bir işlevdir.
 5.Profil oluşturma: Bir sistem veya platformda kullanıcıların kendilerine ait bir hesap oluşturması ve kişisel bilgilerini kaydetmesi sürecidir.
 6.Profil düzenleme: Kullanıcıların daha önce oluşturdukları hesaplarında yer alan kişisel bilgileri, tercihler veya ayarları güncelleyebilmesini sağlayan bir işlevdir.
